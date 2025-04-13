@@ -9,3 +9,4 @@ def print_AP(n):
         a += d
 
 print_AP(10)
+
